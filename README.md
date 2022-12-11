@@ -7,8 +7,8 @@ print(f'Follow {user} on Github')
        OS  :  nt10
    Python  :  python 3.9.12
 Languages  :  Python, Java, Js, Batch, C, HTML/CSS
-  Discord  :  809507498263707728
-   Server  :  995960657214189578
+  Discord  :  706506172462792764
+   Server  :  966692176346099732
 ```
 
 ```json
