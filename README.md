@@ -1,7 +1,4 @@
 ![](https://komarev.com/ghpvc/?username=shiyner&label=views)
-```python
-print(f'Follow {user} on Github')
-```
 
 ```python
        OS  :  nt10
